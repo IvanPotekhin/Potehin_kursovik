@@ -4,8 +4,10 @@
 <head>
     <meta charset="utf-8" />
     <title></title>
-	<link href="TextFile1.txt" rel="stylesheet" type="text/css"> 
-    <div class="wrapper">
+	<link href="TextFile2.css" rel="stylesheet" type="text/css"> 
+	
+<body>
+  <div class="wrapper">
 	<header>
 		<div class="block">
 			<div class="sitename">site.com</div>
@@ -49,7 +51,5 @@
 	</footer>
 </div>
 </head>
-<body>
-
 </body>
 </html>
