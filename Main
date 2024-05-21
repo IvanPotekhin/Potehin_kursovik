@@ -1,13 +1,44 @@
-<div class="wrapper">
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+	<link href="TextFile1.txt" rel="stylesheet" type="text/css"> 
+    <div class="wrapper">
 	<header>
-		...
+		<div class="block">
+			<div class="sitename">site.com</div>
+			<nav>
+				<a href="#">home</a>
+				<a href="#" class="active">blog</a>
+				<a href="#">photos</a>
+				<a href="#">about us</a>
+				<a href="#">contacts</a>
+			</nav>
+		</div>
 	</header>
 	<div class="container">
 		<aside class="left">
 			left
 		</aside>
 		<main>
-			...
+			<h1>Our blog</h1>
+			<p>
+				...
+			</p>
+			<p>
+				...
+			</p>
+			<p>
+				...
+			</p>
+			<p>
+				...
+			</p>
+			<p>
+				...
+			</p>
 		</main>
 		<aside class="right">
 			right
@@ -17,11 +48,8 @@
 		site.com
 	</footer>
 </div>
-<div class="wrapper">
-	<header>
-		<div class="block">
-			<div class="sitename"></div>
-			<nav></nav>
-		</div>
-	</header>
-</div>
+</head>
+<body>
+
+</body>
+</html>
