@@ -1,4 +1,5 @@
 /* CSS DOC */
+/*- Стили */
 body {
 font-family: 'Roboto', sans-serif;
 background-color: #1C1C1C;
@@ -15,6 +16,24 @@ list-stye: none;
 padding: 0;
 margin: 0;
 }
+
+.btn {
+position: absolute;
+width: 91px;
+height: 19px;
+left: 1242px;
+top: 40px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+
+/*- Шапка */
 
 .header {
 display: flex;
@@ -44,10 +63,4 @@ display: flex;
 gap: 30px;
 }
 
-.btn {
 
-}
-	text-align: justify;
-	font: 15px Arial;
-}
-	
